@@ -17,4 +17,4 @@ I build software systems that are concretely useful — AI-native products, deve
 
 ---
 
-Go · Python · TypeScript · Kotlin | Berlin | [fmueller.io](https://fmueller.io)
+Go · Python · TypeScript · Kotlin | [fmueller.io](https://fmueller.io)
