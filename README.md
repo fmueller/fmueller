@@ -1,13 +1,11 @@
-I build software that helps real people — developer tools, AI-native products, and systems that make teams better. Currently at Stack Overflow, working on MCP capabilities, LLM orchestration, and retrieval systems. Previously shaped API governance at Zalando and created [Zally](https://github.com/zalando/zally), their API linter (Thoughtworks Technology Radar 2021).
+Product engineer and toolmaker. Currently building AI-native product capabilities at Stack Overflow — MCP, LLM orchestration, retrieval systems. Previously created [Zally](https://github.com/zalando/zally) at Zalando (Thoughtworks Technology Radar 2021) and shaped their [API Guidelines](https://opensource.zalando.com/restful-api-guidelines/).
 
 ## What I'm building
 
 - **[tessariq](https://github.com/tessariq/tessariq)** (Go) — Git-native infrastructure for agent work: sandboxed runs, reviewable results, artifacts that stay yours
-- **[taskrail](https://github.com/tessariq/taskrail)** (Go) — Deterministic execution harness that turns goals into structured tasks with validation and follow-up
+- **[taskrail](https://github.com/tessariq/taskrail)** (Go) — Structured task runner for LLM agents — goals in, validated results out
 - **[voxclip](https://github.com/fmueller/voxclip)** (Go) — Privacy-first CLI for voice recording and transcription, runs locally with Whisper
-- **[jarvis](https://github.com/fmueller/jarvis)** (Kotlin) — LLM-powered developer plugin for JetBrains IDEs
 - **[scribae](https://github.com/fmueller/scribae)** (Python) — CLI to turn Markdown notes into SEO briefs, drafts, and translations using LLMs
-- **[fabulae](https://github.com/fmueller/fabulae)** (Python) — CLI-first toolkit for building narratives from versionable building blocks
 
 ## Notable work
 
@@ -17,4 +15,4 @@ I build software that helps real people — developer tools, AI-native products,
 
 ---
 
-Java · Kotlin · C# · TypeScript · Go · Python | [fmueller.io](https://fmueller.io)
+Go · Python · TypeScript · Kotlin · Java · C# | [fmueller.io](https://fmueller.io) · [LinkedIn](https://linkedin.com/in/felix-mueller-bln)
