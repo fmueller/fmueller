@@ -1,4 +1,4 @@
-I build software systems that are concretely useful — AI-native products, developer tools, and platforms that give teams leverage. Currently at Stack Overflow, working on MCP capabilities, LLM orchestration, and retrieval systems. Previously shaped API governance at Zalando and created [Zally](https://github.com/zalando/zally), their API linter (Thoughtworks Technology Radar 2021).
+I build software that helps real people — developer tools, AI-native products, and systems that make teams better. Currently at Stack Overflow, working on MCP capabilities, LLM orchestration, and retrieval systems. Previously shaped API governance at Zalando and created [Zally](https://github.com/zalando/zally), their API linter (Thoughtworks Technology Radar 2021).
 
 ## What I'm building
 
@@ -13,8 +13,8 @@ I build software systems that are concretely useful — AI-native products, deve
 
 - Created [Zally](https://github.com/zalando/zally), Zalando's API linter — won Hack Week, grew to a dedicated team, listed in the [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar) (2021)
 - Led Zalando's API Guild and co-shaped their [open-source API Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
-- Published [No More Technical Debt — Invest in Quality](https://www.innoq.com/en/articles/2023/05/no-more-technical-debt/)
+- Published [No More Technical Debt — Invest in Quality](https://www.infoq.com/articles/no-more-technical-debt/) (InfoQ, 2014, with Eberhard Wolff)
 
 ---
 
-Go · Python · TypeScript · Kotlin | [fmueller.io](https://fmueller.io)
+Java · Kotlin · C# · TypeScript · Go · Python | [fmueller.io](https://fmueller.io)
