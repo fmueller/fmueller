@@ -6,13 +6,13 @@ I optimize for meaningful work and building things real people use.
 
 ### Active
 
-- 🎙️ [voxclip](https://github.com/fmueller/voxclip). Privacy-first CLI for voice recording and transcription, runs locally with Whisper. (Go)
-- ✍️ [scribae](https://github.com/fmueller/scribae). Turns Markdown notes into SEO briefs, drafts, metadata, and translations with LLMs. (Python)
+- 🎙️ [voxclip](https://github.com/fmueller/voxclip) Privacy-first CLI for voice recording and transcription, runs locally with Whisper. (Go)
+- ✍️ [scribae](https://github.com/fmueller/scribae) Turns Markdown notes into SEO briefs, drafts, metadata, and translations with LLMs. (Python)
 
 ### In Development
 
-- 🧰 [tessariq](https://github.com/tessariq/tessariq). Git-native infrastructure for agent work: sandboxed runs, reviewable results, artifacts that stay yours. (Go)
-- 🚉 [taskrail](https://github.com/tessariq/taskrail). Deterministic execution harness for LLM agents: goals in, validated results out. (Go)
+- 🧰 [tessariq](https://github.com/tessariq/tessariq) Git-native infrastructure for agent work: sandboxed runs, reviewable results, artifacts that stay yours. (Go)
+- 🚉 [taskrail](https://github.com/tessariq/taskrail) Deterministic execution harness for LLM agents: goals in, validated results out. (Go)
 
 ## Notable past work
 
