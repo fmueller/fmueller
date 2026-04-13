@@ -25,4 +25,4 @@ I optimize for meaningful work and building things real people use.
 
 ---
 
-Java · Kotlin · C# · TypeScript · Go · Python | [fmueller.io](https://fmueller.io) · [LinkedIn](https://linkedin.com/in/felix-mueller-bln)
+Java · Kotlin · C# · TypeScript · Go · Python
