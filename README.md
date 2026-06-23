@@ -25,4 +25,4 @@ I optimize for meaningful work and building things real people use.
 
 ---
 
-Java · Kotlin · C# · TypeScript · Go · Python
+TypeScript · Go · Python · Kotlin · C# · Java
