@@ -1,4 +1,4 @@
-Product engineer and toolmaker, 15+ years in Berlin. Currently building AI-native product capabilities at Stack Overflow: MCP, LLM orchestration, retrieval systems. Previously created [Zally](https://github.com/zalando/zally) at Zalando (Thoughtworks Technology Radar 2021) and co-shaped their [API Guidelines](https://opensource.zalando.com/restful-api-guidelines/).
+Product engineer and toolmaker, 15+ years in Berlin. Currently building AI-native product capabilities at Stack Overflow: MCP, LLM orchestration, retrieval systems.
 
 I optimize for meaningful work and building things real people use.
 
@@ -18,10 +18,7 @@ I optimize for meaningful work and building things real people use.
 
 - Created [Zally](https://github.com/zalando/zally), Zalando's API linter. Won Hack Week, grew to a dedicated team, listed in the [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar) (2021).
 - Led Zalando's API Guild and co-shaped their [open-source API Guidelines](https://opensource.zalando.com/restful-api-guidelines/).
-
-## Writings & Talks
-
-- 📝 [No More Technical Debt: Invest in Quality](https://www.infoq.com/articles/no-more-technical-debt/). InfoQ, 2014 (with Eberhard Wolff).
+- Wrote [No More Technical Debt: Invest in Quality](https://www.infoq.com/articles/no-more-technical-debt/) for InfoQ (2014, with Eberhard Wolff).
 
 ---
 
