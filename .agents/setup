@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
+cd -- "$repo_root"
+
+started_at="$(date +%s)"
+printf '[orb-setup] repository: %s\n' "$repo_root"
+printf '[orb-setup] no package manager, lockfile, runtime pin, environment template, or service configuration is present; nothing to install.\n'
+printf '[orb-setup] complete in %ss\n' "$(( $(date +%s) - started_at ))"

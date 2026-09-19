@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
+cd -- "$repo_root"
+
+started_at="$(date +%s)"
+printf '[orb-resume] no services, credentials, or reconnect steps are configured for this repository.\n'
+printf '[orb-resume] complete in %ss\n' "$(( $(date +%s) - started_at ))"
